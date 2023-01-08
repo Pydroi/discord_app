@@ -8,7 +8,7 @@ import asyncio
 import youtube_dl
 
 
-TOKEN ="MTAyMTM1NjI3Mjk1MzYxMDI1MA.GQFRvh.UEga0bWFM4jAFrwOjBi9K1Lz_zng-NJhFLyNfg"
+TOKEN =""
 
 client = discord.Client()
 
